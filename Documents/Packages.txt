@@ -1,0 +1,29 @@
+*library(twitteR)-twitteR is an R package which provides access to the Twitter API. Most 	functionality of the API is supported, with a bias towards API calls that are more 	useful in data analysis as opposed to daily interaction.
+
+*library(tm)-A framework for text mining applications within R.
+
+*library(wordcloud)-Plot a word cloud
+
+*library(dplyr)-A fast, consistent tool for working with data frame like objects, both in memory and out of memory.
+
+*library(ggplot2)-A system for 'declaratively' creating graphics, based on "The Grammar of Graphics". You provide the data, tell 'ggplot2' how to map variables to 		aesthetics, what graphical primitives to use, and it takes care of the details.
+
+*library(RColorBrewer)-Provides color schemes for maps (and other graphics) designed by Cynthia Brewer as described at http://colorbrewer2.org
+
+*library(stringr)-A consistent, simple and easy to use set of wrappers around the fantastic 'stringi' package. All function and argument names (and positions) are 	consistent, all functions deal with "NA"'s and zero length vectors in the same way, and the output from one function is easy to feed into the input of another.
+
+*library(syuzhet)-An R package for the extraction of sentiment and sentiment-based plot arcs from text.
+
+*library(rbokeh)-A native R plotting library that provides a flexible declarative interface for creating interactive web-based graphics, backed by the Bokeh 		visualization library <http://bokeh.pydata.org/>
+
+*library(base64enc)-This package provides tools for handling base64 encoding. It is more flexible than the orphaned base64 package. # fix for twitter oauth in shinyapps.io
+
+*library(SnowballC) # fix for stemming issue in tm
+
+*library(timeSeries)-Environment for teaching "Financial Engineering and Computational Finance". Managing financial time series objects.
+
+*library(forecast)-Methods and tools for displaying and analysing univariate time series forecasts including exponential smoothing via state space models and automatic 		ARIMA modelling.
+
+*library(shiny)-Makes it incredibly easy to build interactive web applications with R. Automatic "reactive" binding between inputs and outputs and extensive prebuilt 		widgets make it possible to build beautiful, responsive, and powerful applications with minimal effort.
+
+*library(quantmod)-Specify, build, trade, and analyse quantitative financial trading strategies.

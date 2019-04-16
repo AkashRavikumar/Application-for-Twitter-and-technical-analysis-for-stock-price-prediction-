@@ -1,0 +1,9 @@
+Use case: Application
+
+•When a user opens the application, a search sting like “Apple”, needs to be entered to search in text input space. User also has an option to eliminate the retweets. Here, the number of tweets needed can be selected from the drop box according to requirement.
+
+•When the user clicks “search”, the API retrieves the required data. Data received is then presented in a word cloud which denotes the words according to its frequency in tweets. The number of tweets received will also be displayed below word cloud.
+
+•User is then directed to the second tab which is dedicated for sentimental analysis. User can see eight different emotions plotted against each respective word frequency. The user can visually understand the extent to which a revert is angry, joyful and so on with respect to time of the tweet, or sentiment. If a user hovers over the plot, then that element would display the username and revert as well.
+
+•In the next tab, user can type Apple Inc ticker name “AAPL”. When searched, the application would import the historic and current data of the stock through yahoo finance API. As soon as data is received, it displays the forecasting in plot and a table of values as well. User can also see the accuracy of the model by looking at last tab which displays error measures of model used for forecasting.

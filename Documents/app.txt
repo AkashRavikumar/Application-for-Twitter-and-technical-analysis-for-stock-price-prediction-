@@ -1,0 +1,7 @@
+Referring from files of ""screenshots" folder 
+
+
+•	Tab 1: Load Tweets: This part is designed in UI function where 1 text input for search string, 2 checkbox inputs for user preferences and a search button is used. In the main output, there is a space for word cloud and no of tweets retrieved would be displayed beneath.
+•	Tab 2: Sentiments: This tab is dedicated for display a plot of sentimental analysis. A bar graph that consists of 8 different emotions on x-axis and the number of tweets on y-axis is displayed. 
+•	Tab 3: Time Graph: This tab displays a time graph of the tweets that are retrieved for the session. A scatter plot that consists of date/time on the X-axis and the extent of emotions on the Y-axis is displayed in the plot. Also, a drop box is placed that allows the user to choose the type of emotions to be plotted. Furthermore, options like zoom, pan scale etc. are placed to provide better ease and convenience.
+•	Tab 4: Stocks: This tab gives the other dimension of our topic i.e. technical analysis. It comprises of text input options for entering stock ticker name and a date field to adjust the dates or time period to display results in different plots. Live stock price graph with date vs closing price from 2007 (by default, can vary according to user convenience) is plotted in the main plot.The next plot forecasts the stock prices based on the previous values. A four columned table that displays these forecasted values could be seen in the next plot. Finally, the error measures of ARIMA model used for prediction, is displayed.
