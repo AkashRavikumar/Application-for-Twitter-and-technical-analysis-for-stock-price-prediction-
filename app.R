@@ -1,20 +1,15 @@
 #library(twitteR)
 #library(tm)
-#library(rjson)
 #library(wordcloud)
 #library(dplyr)
-#library(caret)
 #library(ggplot2)
 #library(RColorBrewer)
 #library(stringr)
 #library(syuzhet) # for sentiment analysis
-#library(scales)
 #library(rbokeh)
 #library(base64enc) # fix for twitter oauth in shinyapps.io
 #library(SnowballC) # fix for stemming issue in tm
 #library(timeSeries)
-#library(timeDate)
-#library(tseries)
 #library(forecast)
 #library(shiny)
 #library(quantmod)
